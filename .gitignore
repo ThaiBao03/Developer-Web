@@ -1,0 +1,5 @@
+# Bỏ qua thư mục node_modules chứa các gói phụ thuộc
+node_modules/
+
+# Bạn cũng có thể thêm các file cấu hình tạm thời khác nếu cần
+.DS_Store
